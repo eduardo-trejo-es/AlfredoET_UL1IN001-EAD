@@ -295,3 +295,7 @@ def cacher(s: str, c: str, code: str) -> str:
 #  tests (3.3)
 """assert cacher("Ceci est une phrase", "e", "papillon") == "Cpci ast unp phrasi"
 assert cacher("aaaaaaaaaaaaaaaaaaaaaaaaaaaa", "a", "papillon") == "papillonpapillonpapillonpapi"""
+
+
+if __name__ == "__main__":
+    print("tout est bon... :)")
