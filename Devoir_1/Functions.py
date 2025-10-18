@@ -1,4 +1,6 @@
-# Alfredo Eduardo TREJO MARTINEZ – UL1IN001 EAD – Devoir 1
+# Alfredo Eduardo TREJO MARTINEZ – UL1IN001 EAD – Devoir 1 
+# N etudiant : 21513946
+# Alfredo.Trejo@etu.sorbonne-universite.fr 
 # lien GitHub : https://github.com/eduardo-trejo-es
 
 import math
